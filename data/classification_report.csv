@@ -1,7 +1,0 @@
-Kelas,Precision,Recall,F1-Score,Support
-negatif,0.7471,0.8777,0.8071,2804
-netral,0.8889,0.0131,0.0258,612
-positif,0.8632,0.8844,0.8736,4593
-accuracy,,,0.8155,
-macro avg,0.8331,0.5917,0.5689,8009
-weighted avg,0.8245,0.8155,0.7856,8009

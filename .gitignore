@@ -1,1 +1,31 @@
-venv
+# Environment & Virtualenv
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Folder Data (Dataset, file JSON/CSV hasil scraping, preprocessing, evaluasi, dan grafik gambar)
+data/*
+!data/.gitkeep
+
+# Folder Model (File model hasil training berukuran besar seperti .h5 / .keras)
+models/*
+model/*
+!models/.gitkeep
+!model/.gitkeep
+*.h5
+*.keras
+
+# Checkpoints, Jupyter & Logs
+.ipynb_checkpoints/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db

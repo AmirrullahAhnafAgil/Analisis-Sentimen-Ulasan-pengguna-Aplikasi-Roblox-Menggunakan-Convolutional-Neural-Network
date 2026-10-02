@@ -1,0 +1,12 @@
+google-play-scraper
+googletrans==4.0.0rc1
+nltk
+PySastrawi
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+tabulate
+pandas
+numpy
+tqdm
